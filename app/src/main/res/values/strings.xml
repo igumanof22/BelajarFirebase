@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Belajar Firebase</string>
+    <string name="nim">NIM</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="login">Login</string>
+    <string name="simpan">Simpan</string>
+    <string name="logout">Logout</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="upload_gambar">Upload Gambar</string>
+</resources>
